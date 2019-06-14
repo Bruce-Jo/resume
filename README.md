@@ -11,8 +11,8 @@
 - 홈페이지 : [https://www.groundbe.com] <br>
 
 ## 회사프로젝트
-### 오분 - 오늘의 분석 (1.0)
+### 비스코어(BeScore) - 라이브스코어, 전문가 분석 (1.0)
 - 소속 : (주)그라운드비
 - 역할 : iOS 앱 개발
-- 사용기술 : iOS, Swift, Realm, Alamofire, RxSwift, Firebase
-- AppStore : [https://itunes.apple.com/kr/app/id1452538363]
+- 사용기술 : iOS, Swift, Realm, Alamofire, RxSwift, RxCocoa, Firebase
+- AppStore : [https://apps.apple.com/kr/app/id1463024278]
